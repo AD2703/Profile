@@ -1,4 +1,4 @@
-# Profile
+#Profile
 <h1 align="center">Hi 👋, I'm Alejandro Doria</h1>
 <h3 align="center">A passionate full web developer from Mexico</h3>
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **alexdoria.7@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/AD2703?tab=repositories](https://github.com/AD2703?tab=repositories)
+- 📄 Know about my experiences [https://www.canva.com/design/DAEx2VHLhIM/a02vD07KDxWXJDfJiij7xg/view?utm_content=DAEx2VHLhIM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAEx2VHLhIM/a02vD07KDxWXJDfJiij7xg/view?utm_content=DAEx2VHLhIM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,4 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ad2703&show_icons=true&locale=en" alt="ad2703" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ad2703&" alt="ad2703" /></p>
+
 
